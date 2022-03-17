@@ -3,7 +3,6 @@
 
 - python=3.5
 - tk=8.5.18
-- torch=1.1.0
 - numpy=1.13
 - casadi=3.5
 #### Note
