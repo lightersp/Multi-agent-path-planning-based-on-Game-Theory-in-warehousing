@@ -9,4 +9,4 @@
 #### Note
 + This is a simple example of generalized Nash equilibrium search.
 + It works better for convex problems.
-+ I'am preparing for simulation on a higher quality platform.
++ I'm preparing for simulation on a higher quality platform.
