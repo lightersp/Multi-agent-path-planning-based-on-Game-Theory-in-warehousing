@@ -11,6 +11,7 @@
 - tk=8.5.18
 - numpy=1.13
 - casadi=3.5
+- Aws_model:[Download](https://github.com/aws-robotics/aws-robomaker-small-warehouse-world/tree/ros1/models)
 #### Note
 + This is a simple example of generalized Nash equilibrium search.
 + It works better for convex problems.
