@@ -1,11 +1,9 @@
 # Multi-agent-path-planning-based-on-Game-Theory-in-warehousing
 #### Warehous_map
 ##### Simulation_1(Python_TK)
-![map_1](https://github.com/lightersp/Multi-agent-path-planning-based-on-Game-Theory-in-warehousing/blob/master/fig/map_1.png)
-##### Simulation_2(Ros_Gazebo)
 ![map_2](https://github.com/lightersp/Multi-agent-path-planning-based-on-Game-Theory-in-warehousing/blob/master/fig/Map_gazebo.gif)
 #### Requirements
-
+##### Simulation_2(Gazobo)
 
 - python=3.5
 - tk=8.5.18
