@@ -1,0 +1,8 @@
+prefix=/home/wyz/mbot_ws/devel
+
+Name: topic_learn
+Description: Description of topic_learn
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

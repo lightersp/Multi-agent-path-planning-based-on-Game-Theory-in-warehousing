@@ -1,0 +1,4 @@
+<launch>
+  <node name="robot_vel" pkg="mbot_teleop" type="mbot_teleop.py" output="screen">
+  </node>
+</launch>

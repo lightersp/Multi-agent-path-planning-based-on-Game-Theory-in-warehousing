@@ -1,0 +1,2 @@
+mbot_description:mbot_gazebo:mbot_teleop:topic_learn
+-DCATKIN_DEVEL_PREFIX=/home/wyz/mbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wyz/mbot_ws/install -G Unix Makefiles
